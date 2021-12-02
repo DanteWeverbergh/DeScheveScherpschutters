@@ -3,7 +3,7 @@ WebdevII - werkstuk
 
 ## env
 
-Belangrijk om te veranderen in .env file (zie env.example)
+Important things to change is de .ENV file:
 
 - contact email
 
@@ -29,24 +29,20 @@ STRIPE_KEY=
 STRIPE_SECRET=
 ```
 
-## enkele opmerkingen
-
-- Privacy policy staat enkel in de footer
-- Admin dashboard ook enkel bereikbaar via footer (minder storend voor gebruikers)
 
 ## admin dashboard
 
-- nieuwsartikels: verijderen, toevoegen, editen
-- producten in webshop: verwijderen, toevoegen, editen
+- News articles: post, edit and delete articles
+- Products in the shop: Add, edit and delete products in the webshop
 
-## test gegevens
+## test data
 
 admin dashboard login:
 
 - Email: `admin@admin.be`
 - Password: `wepqi6-byshiq-zaqXyx`
 
-Credit card testegegevns:
+Credit card testdata(not a real card):
 
 - Credit card: `4242 4242 4242 4242`
 - date: `05/22`
